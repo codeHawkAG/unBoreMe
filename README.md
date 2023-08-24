@@ -1,9 +1,11 @@
-# Tauri + React
+# UnBoreMe
 
-This template should help get you started developing with Tauri and React in Vite.
+This is a simple app made using React.js and Rust
 
-## Recommended IDE Setup
+## Use :
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
-# unBoreMe
-# unBoreMe
+- Simply click the button to get a suggestion to do something if you're bored
+
+## Note :
+
+- This app is made solely for the purpose of utilizing APIs and it isn't a fully developed project
